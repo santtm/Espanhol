@@ -13,6 +13,7 @@ Este programa usa imagens do app "Magia del Amor", e adiciona botões e opções
 Instagram: @_magiadelamor
 
 **Imagens: Julia Rezende
+
 **Código: Thiago Santiago
 
 (primeira vez q eu uso kivy ent ta tudo bagunçado, fé fé)
